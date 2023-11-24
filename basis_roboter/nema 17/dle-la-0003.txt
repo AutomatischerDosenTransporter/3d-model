@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-18022014-122387";"";
+"REFERENCE";"DLE-LA-0003";"";
+"TraceParts.PartTitle";"Schrittmotor NEMA17";"";
+"TraceParts.InstanceId";"30-18022014-1223872SAPZWNAFSBMU24MJF78LINKE";"";
+"SELECTION";"DLE-LA-0003";"";
+"SUPPLIER";"igus GmbH";"";
+"DESIGN";"DryLin®, DLE-LA-0003";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.PartVersion";"1.4.0";"";
